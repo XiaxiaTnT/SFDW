@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SFDW</string>
+    <string name="action_settings">Settings</string>
+    <string name="StopService">停止服务</string>
+    <string name="StartService">启动服务</string>
+
+</resources>
